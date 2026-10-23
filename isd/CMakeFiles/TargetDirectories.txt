@@ -1,0 +1,4 @@
+/home/n7v/projects/codes-red/isd/CMakeFiles/isd.dir
+/home/n7v/projects/codes-red/isd/CMakeFiles/format.dir
+/home/n7v/projects/codes-red/isd/CMakeFiles/edit_cache.dir
+/home/n7v/projects/codes-red/isd/CMakeFiles/rebuild_cache.dir

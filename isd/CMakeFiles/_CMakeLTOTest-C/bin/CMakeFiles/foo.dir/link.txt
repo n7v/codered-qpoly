@@ -1,0 +1,2 @@
+"/home/n7v/miniforge3/envs/sage/bin/gcc-ar" cr libfoo.a CMakeFiles/foo.dir/foo.c.o
+"/home/n7v/miniforge3/envs/sage/bin/gcc-ranlib" libfoo.a
